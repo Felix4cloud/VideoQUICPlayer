@@ -1,2 +1,3 @@
 # VideoQUICPlayer
-QUIC Player based on google/ExoPlayer
+
+Video Player sample based on google/ExoPlayer and QUIC protocol
